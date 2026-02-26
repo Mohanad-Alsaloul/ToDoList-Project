@@ -2,6 +2,29 @@
 A project aimed at managing your tasks and responsibilities, preventing forgetfulness, and managing your time efficiently.
 ---
 # What distinguishes the application?
--Simple and easy to use.
--Helps organize your time.
--No internet connection required.
+- Simple and easy to use.
+- Helps organize your time.
+- No internet connection required.
+---
+# What are the new additions?
+## RecyclerView:
+- Present a set of elements (such as tasks) in an organized, fast, and professional manner.
+- Improves performance.
+- A large number of items are displayed efficiently.
+
+## Animation:
+- Improved user experience.
+- Made the app more professional.
+- Added an aesthetic touch.
+
+## SharedPreferences:
+- Saving simple data.
+- Retains it after closing the application.
+- No database required.
+- Easier login.
+---
+# Project manager:
+- Name: **Mohanad Al-Saloul**
+- Division: A
+- Academic number: 2149011011
+- Specialization: Computer Systems Engineering
