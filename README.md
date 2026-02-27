@@ -28,4 +28,5 @@ A project aimed at managing your tasks and responsibilities, preventing forgetfu
 - Division: A
 - Academic number: 2149011011
 - Specialization: Computer Systems Engineering
+- Course: Programming smart phone applications
 - Group number: 1
