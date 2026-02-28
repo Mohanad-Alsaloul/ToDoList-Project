@@ -6,6 +6,17 @@ A project aimed at managing your tasks and responsibilities, preventing forgetfu
 - Helps organize your time.
 - No internet connection required.
 ---
+# Screens available in the app:
+- 1- Splash screen.
+- 2- Login.
+- 3- Register.
+- 4- Home.
+- 5- Task Details.
+- 6- Add New Task.
+- 7- Edit Task.
+- 8- Profile.
+- 9- Settings.
+---
 # What are the new additions?
 ## RecyclerView:
 - Present a set of elements (such as tasks) in an organized, fast, and professional manner.
